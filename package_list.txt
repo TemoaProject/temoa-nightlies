@@ -8,3 +8,5 @@ temoa-4.0.0a1.dev20251118.tar.gz
 temoa-4.0.0a1.dev20251118-py3-none-any.whl
 temoa-4.0.0a1.dev20251122.tar.gz
 temoa-4.0.0a1.dev20251122-py3-none-any.whl
+temoa-4.0.0a1.dev20251127.tar.gz
+temoa-4.0.0a1.dev20251127-py3-none-any.whl
